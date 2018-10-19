@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android Polimoji</string>
+    <string name="error">error</string>
+    <string name="saved_message">saved_message</string>
+</resources>
